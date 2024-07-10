@@ -1,2 +1,2 @@
-# most-beautiful-places-in-the-world-app
+# Most Beautiful Places App
 This App was created for the purpose of the Ironhack: JS Summer Workshop
